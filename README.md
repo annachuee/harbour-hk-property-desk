@@ -6,7 +6,7 @@ A Traditional Chinese, Hong Kong first proptech agency desk for property CRM wor
 
 ## Product direction
 
-Harbour is an early Hong Kong-first agency operating system concept: a property and client CRM connected to local market intelligence. It brings together the day-to-day sales workflow (enquiries, applicant matching, follow-ups and progression) with prospecting workflows (market signals, local campaigns and opportunities), while using address resolution to keep the underlying property record clean. This draws on broad workflow patterns seen in products such as [Street](https://street.co.uk/product/sales) and [Spectre](https://spectre.uk.com/product/sales); Harbour is an independent prototype and is not affiliated with either company.
+Harbour is an early Hong Kong-first agency operating system concept: a property and client CRM connected to local market intelligence. It brings together the day-to-day sales workflow (enquiries, applicant matching, follow-ups and progression) with prospecting workflows (market signals, local campaigns and opportunities), while using address resolution to keep the underlying property record clean. Harbour is an independent prototype and is not affiliated with either company.
 
 The current prototype demonstrates the agency desk, pipeline stages, follow-up checklist, market-signal campaign actions, multi-source listing inventory, and fuzzy duplicate review. WhatsApp actions use WhatsApp click-to-chat with prefilled messages; the agent chooses a recipient and sends manually. CRM records, deal stages and signals are sample data. There is no live portal connection, backend, automated WhatsApp Business messaging, or client account system yet.
 
